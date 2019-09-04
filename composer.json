@@ -12,9 +12,7 @@
     "php": ">=7.2.0",
     "topthink/framework": "~5.0",
     "topthink/think-installer": "~1.0",
-    "topthink/think-helper": "~1.0"
-  },
-  "require-dev": {
+    "topthink/think-helper": "~1.0",
     "phpunit/phpunit": "^6.0",
     "symfony/dom-crawler": "^2.8.8"
   },
