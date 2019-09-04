@@ -2,6 +2,7 @@
   "name": "0377/think-test-new",
   "description": "thinkphp5.0 testing phpunit6",
   "type": "library",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Ice",
